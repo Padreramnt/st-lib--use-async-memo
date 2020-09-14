@@ -2,7 +2,6 @@
 	"author": "padreramnt",
 	"description": "React useMemo for async functions",
 	"dependencies": {
-		"@st-lib/is": "^1.0.4",
 		"tslib": "^2.0.0"
 	},
 	"devDependencies": {
